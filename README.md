@@ -11,7 +11,7 @@ BASKETBALL WEB/
 ├── BASKETBALL/          # Frontend (HTML/CSS)
 └── basketball-backend/  # Backend (Laravel 12 API)
 ```
-  ![Screenshot](https://github.com/RAHEEL959/BASKETBALL/Capture.PNG)
+  ![Screenshot](https://github.com/RAHEEL959/BASKETBALL/blob/main/Capture.PNG)
 ---
 
 ## Frontend — `BASKETBALL/`
